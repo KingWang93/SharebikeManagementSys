@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_outer_classname="GridProto";
+option java_package = "proto";
+
+message Grid {
+	int32 index = 1;
+	int32 col = 2;
+	int32 row = 3;
+	repeated Line lines = 7;
+}
+
+message Point {
+	string date = 4;
+	double x = 5;
+	double y = 6;
+}
+
+message Line{
+	repeated Point coors=8;
+}

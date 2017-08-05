@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ShareBike-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <property name="context-root" value="ShareBike"/>
+        <property name="java-output-path" value="/ShareBike/target/classes"/>
+    </wb-module>
+</project-modules>
