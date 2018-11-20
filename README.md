@@ -1,4 +1,4 @@
-# SharebikeDemo
+# SharebikeManagementSys
 a demo for sharebike track's visualization
 
 该程序采用Vertx框架写的，主要有三个verticle，利用websicket推送数据
