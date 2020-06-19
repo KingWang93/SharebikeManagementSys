@@ -1,7 +1,7 @@
 # SharebikeManagementSys
 a demo for sharebike track's visualization
 
-该程序采用Vertx框架写的，主要有三个verticle，利用websicket推送数据
+该程序采用Vertx框架写的，主要有三个verticle，利用websocket推送数据
 
 主要功能：
 （1）实时位置点位推送
